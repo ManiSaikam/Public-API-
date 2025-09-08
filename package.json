@@ -1,0 +1,11 @@
+{
+  "name": "poke-demo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js pikachu"
+  },
+  "dependencies": {
+    "pokedex-promise-v2": "^4.0.0"
+  }
+}
